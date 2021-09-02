@@ -10,3 +10,29 @@ Integrating the museum’s public data into a project for the purpose of learnin
 
 
 
+## Installation 
+
+1. **Clone** the repository.
+
+```bash
+git clone https://github.com/manuelalferez/art-institute-of-chicago.git
+```
+
+2. **Open** the `index.html` file with your browser. 
+
+```bash
+google-chrome index.html
+```
+
+OR
+
+```bash
+firefox index.html
+```
+
+
+
+You can see the explanation of the project in the [wiki](https://github.com/manuelalferez/art-institute-of-chicago/wiki/Explanation).
+
+
+
